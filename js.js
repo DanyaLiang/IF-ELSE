@@ -1,7 +1,2 @@
-let a = 10
-if(a == 8){
-  console.log('+')
-}
-else{
-  console.log('-')
-}
+let fox = 'FOXI THE BEST'
+console.log(fox)
